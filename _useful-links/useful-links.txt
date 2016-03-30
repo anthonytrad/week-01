@@ -1,0 +1,5 @@
+HTML TAGS - http://www.w3schools.com/tags/ref_byfunc.asp
+CSS Properties - http://www.htmldog.com/references/css/properties/
+
+HTML VALIDATOR - https://validator.w3.org/#validate_by_input
+CSS VALIDATOR - https://jigsaw.w3.org/css-validator/#validate_by_input
